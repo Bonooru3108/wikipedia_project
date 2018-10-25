@@ -1,3 +1,11 @@
+# Ignore the data files... We don't want to accidentally upload all of
+# wikipedia
+data/
+
+#######################################################################
+# Pre-generated #######################################################
+#######################################################################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
